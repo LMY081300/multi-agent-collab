@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multi-Agent Collaboration"
+  short_description: "Multi-agent teams in Codex with role separation and auto collab"
+  default_prompt: "Help me start the multi-agent collaboration system. I need to create autonomous agents with specific roles to work together on a task."
